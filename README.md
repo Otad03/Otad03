@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#Check out my some of my projects I deem Ok, the Pc Sim and my own Portfolio.
 <!--
 **Otad03/Otad03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
